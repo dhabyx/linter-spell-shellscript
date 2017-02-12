@@ -1,7 +1,7 @@
 {
   "name": "linter-spell-shellscript",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Shell Script checking using linter-spell",
   "author": "Dhaby Xiloj <slack.dhabyx@gmail.com>",
   "keywords": [
